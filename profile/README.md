@@ -1,4 +1,4 @@
-## Seek for tools on GitHub related to SDU
+## Tools useful to SDUers
 
 We seek for useful tools related with SDU all over GitHub and fork then under this Organization.
 
